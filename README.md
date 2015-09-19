@@ -1,2 +1,0 @@
-# HETBADJOKES
-HET Code Repo
