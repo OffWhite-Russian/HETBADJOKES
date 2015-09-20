@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>6D199E35-B5A3-4967-BB6B-B0BB3CADAB0D</string>
+	<key>IDESourceControlProjectName</key>
+	<string>HET</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>AEE51F328D6B88E6C18264CADF9BC63E4333D420</key>
+		<string>https://github.com/OffWhite-Russian/HETBADJOKES.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>HET.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>AEE51F328D6B88E6C18264CADF9BC63E4333D420</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/OffWhite-Russian/HETBADJOKES.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>AEE51F328D6B88E6C18264CADF9BC63E4333D420</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>AEE51F328D6B88E6C18264CADF9BC63E4333D420</string>
+			<key>IDESourceControlWCCName</key>
+			<string>HETBADJOKES</string>
+		</dict>
+	</array>
+</dict>
+</plist>
